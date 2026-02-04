@@ -1,0 +1,32 @@
+{
+  "Messages": [
+    {
+      "MessageId": "1a897724-e4f7-476a-a685-2455d8b298ed",
+      "ReceiptHandle": "AQEB6YTzXjuUkom5swXGuC2q+lU0C2uR1JUPupyKvJ4OD9pvQvSCppWA1Aohnjbunet6OeiyzzymGpSHXyQMW10Ca5PyZgj639UnrYPkk1rVC3rlPPExKwKHY10X5cNSKpwtNdGFIKzMRO3+ladv/Xuey47LbxOcPDg0PGhlfagxO3+9PuWV2iqy/XNqHPMNDiEgOmolCITcU/o9Sz5RrLfvltoY81x8gAqo3PYMlWs3vRfVPbAu6FEFxxl7XdGD1TGIOjDnq416vbLpTpA8wkvCtrQe5vtkZgT52+GAvUW6vhXOIzRD477jazlmKaXEFjE0Fgkeb2uo3MuXdgtRKoEeyXHvfQGk2TAaRbA7Ovu7Iqx04GrYAEBbu9jxOrgaPtqWHK09Mm4zrNsPTnTMVwefqg==",
+      "MD5OfBody": "6a4b25fefdac677a74a90d971324b65b",
+      "Body": {
+        "Service": "Amazon S3",
+        "Event": "s3:TestEvent",
+        "Time": "2025-12-17T17:43:37.215Z",
+        "Bucket": "anas-tube-raw-videos",
+        "RequestId": "NGX7JCH0P6MFNWYE",
+        "HostId": "s80bbjmut0pg8HABZZQhmmdh+Zt0+MIuuyyRlxIbf2g4qEb1gcju2QeyAs3rvBE5AwjjFFWEy5DPT5Cr1nH5SDcs1MsxNA7V"
+      }
+    }
+  ],
+  "ResponseMetadata": {
+    "RequestId": "fb37cdaf-23c8-56d5-ae56-ac12f1c2ec26",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "x-amzn-requestid": "fb37cdaf-23c8-56d5-ae56-ac12f1c2ec26",
+      "date": "Thu, 18 Dec 2025 09:56:34 GMT",
+      "content-type": "application/x-amz-json-1.0",
+      "content-length": "830",
+      "connection": "keep-alive"
+    },
+    "RetryAttempts": 0
+  }
+}
+
+
+
